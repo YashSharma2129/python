@@ -235,3 +235,15 @@
 
 # for i in  range(10,0,-1):
 #     print(i)
+
+
+## Palindrome check
+# str1="ababa"
+# str2=""
+# for i in range(len(str1)-1,-1,-1):
+#     str2+=str1[i]
+# print(str2)
+# if(str1==str2):
+#     print("Palindrome")
+# else:
+#     print("Not a palindrome")
