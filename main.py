@@ -1,3 +1,16 @@
+"""Index file for the Python practice topics in this folder.
+
+Open the topic files for the actual examples.
+"""
+
+# basics.py
+# operators.py
+# conditionals.py
+# loops.py
+# strings.py
+# while_loop.py
+
+
 # print("Hello Yash!")
 
 ## variables
