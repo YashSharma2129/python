@@ -196,3 +196,21 @@
 #     else:
 #         sum_odd+=i
 # print("sum of even numbers is: ", sum_even, "sum of odd numbers is: ", sum_odd)
+
+# ## Print all factors of a number
+# n=int(input("Enter your number: "))
+# factor=0
+# for i in range(1,n+1):
+#     if(n%i==0):
+#         print(i ,ends=" ")
+
+# number=int(input("Enter your number: "))
+# sum=0
+# for i in range(1,number):
+#     if(number%i == 0 ):
+#         print(i)
+#         sum+=i
+# if(sum==number):
+#         print("Perfect number")
+# else:
+#         print("Not a perfect number")
