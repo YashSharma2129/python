@@ -248,8 +248,10 @@
 # else:
 #     print("Not a palindrome")
 
-str1="P@#yn26at^&i5ve"
-print(type(str1))
+
+## Count characters, digits and symbols in a string
+# str1="P@#yn26at^&i5ve"
+# print(type(str1))
 # char=0; digits=0; symbol=0
 # for i in str1:
 #     if(i.isalpha()):
