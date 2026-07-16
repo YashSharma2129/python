@@ -226,3 +226,12 @@
 #             break
 #     else:
 #             print("Prime number")
+
+
+# str1 = "Yash is a software engineer"
+# for i in range(len(str1)-1,-1,-1):
+#     print(str1[i], end="")
+
+
+# for i in  range(10,0,-1):
+#     print(i)
