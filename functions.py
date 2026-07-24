@@ -21,3 +21,16 @@
 # sum(12,13) ## positional arguments and value of b is replaced by 13
 # sum(12) ## uses default value for b
 
+
+# def pallindrome(st):
+#     reverse_string = ""
+#     for i in range(len(st)-1, -1, -1):
+#         reverse_string += st[i]
+
+#     if reverse_string == st:
+#         print(f"{st} is a pallindrome")
+#     else:
+#         print(f"{st} is not a pallindrome")
+
+# pallindrome("madam")
+# pallindrome("Cursor")
