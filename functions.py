@@ -34,3 +34,7 @@
 
 # pallindrome("madam")
 # pallindrome("Cursor")
+
+# def yash():
+#     return("Hello my name is Yash and my age is 21") ## wht is retun doing it will provide the return value to the function
+# print(yash()) ## calling the function and printing the return value
