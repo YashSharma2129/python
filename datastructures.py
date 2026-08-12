@@ -16,6 +16,26 @@
 # print(a[-1]) ## 7
 # print(fruits[0:3]) ## ['apple', 'banana', 'mango']
 
+a=[12,4,5,6,7,34.5]
+
+#  #1st way to print list values using indexing
+# for i in range(len(a)):
+#     print(a[i])
+
+# 2nd way to print list values using for loop
+# for i in a:
+#     print(i)
+
+# print(dir(list)) ## list ke methods ko dekhne ke liye dir() ka use kiya jata hai.
+
+# help(list) ## list ke methods ke baare me detail me janne ke liye help() ka use kiya jata hai.
+l=[1,2,3,4,5]
+print(l)
+# l.append(6) ## append() method ka use list me new value add karne ke liye kiya jata hai.
+print(l) ## [1, 2, 3, 4, 5, 6]
+l.insert(2,10) ## insert() method ka use list me new value add karne ke liye kiya jata hai. ye method 2 arguments leta hai. 1st argument me index aur 2nd argument me value.
+print(l) ## [1, 2, 10, 3, 4, 5, 6]
+
 
 # a=12,4,5,6,6
 # print(a) ## tuple data structure
